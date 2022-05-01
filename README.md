@@ -1,5 +1,5 @@
 # dl-tent
-Improving model robustness through TENT
+Improving model robustness through Test-time Entropy minimization (TENT)
 
 ### References
 1. Wang, D., Shelhamer, E., Liu, S., Olshausen, B., & Darrell, T. (2020). Tent: Fully Test-time Adaptation by Entropy Minimization. arXiv, 2006.10726. Retrieved from https://arxiv.org/abs/2006.10726v3
